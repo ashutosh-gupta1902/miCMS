@@ -1,4 +1,4 @@
-# Filament Demo App
+# CMS App
 
 A demo application to illustrate how Filament Admin works.
 
